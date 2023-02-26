@@ -9,9 +9,9 @@ public class B_25206 {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
       
-        float cnt = 0;
-        float sum = 0F;
-        float score = 0F;
+        double cnt = 0;
+        double sum = 0;
+        double score = 0;
         boolean tf = false;
 
         for(int i = 0 ; i < 20; i ++){
@@ -20,43 +20,48 @@ public class B_25206 {
             StringTokenizer st = new StringTokenizer(str, " ");
 
             String A = st.nextToken();
-            float B = Float.parseFloat(st.nextToken());
+            String B = st.nextToken();
             String C = st.nextToken();
             
-            if(C.length() != 1){
-                if(C.charAt(1) != 0){
+            double myscore= Double.parseDouble(B);
+            
+            if(C.length() != 1 || C.equals("F")){
+                
                     switch(C){
-                        case "A+" : sum += B * 4.5;
+                        case "A+" : sum += myscore * 4.5;
                         break;
 
-                        case "A0" : sum += B * 4.0;
+                        case "A0" : sum += myscore * 4.0;
                         break;
 
-                        case "B+" : sum += B * 3.5;
+                        case "B+" : sum += myscore * 3.5;
                         break;
 
-                        case "B0" : sum += B * 3.0;
+                        case "B0" : sum += myscore * 3.0;
                         break;
 
-                        case "C+" : sum += B * 2.5;
+                        case "C+" : sum += myscore * 2.5;
                         break;
 
-                        case "C0" : sum += B * 2.0;
+                        case "C0" : sum += myscore * 2.0;
                         break;
 
-                        case "D+" : sum += B * 1.5;
+                        case "D+" : sum += myscore* 1.5;
                         break;
 
-                        case "D0" : sum += B * 1.0;
+                        case "D0" : sum += myscore * 1.0;
+                        break;
+
+                        case "F" : sum += myscore * 0.0;
                         break;
 
 
 
                     }
-                    score += B;
+                    score += myscore;
                     cnt ++;
                     tf = true;
-                }
+                
             }else{
                 continue;
             }
@@ -64,12 +69,13 @@ public class B_25206 {
             
         }
 
-        if(tf == false){
-            System.out.printf("%6f",sum);
-        }else{
+        if(sum != 0){
             System.out.println(cnt);
-            System.out.printf("%6f", sum/score);
-        }
+            System.out.printf("%f", sum/score);
 
+        }else{
+
+            System.out.printf("%6f", sum);
+        }
     }
 }
