@@ -28,7 +28,7 @@ public class Start {
 			}
 		}
  
-		combi(0, 0);
+		combi(0, 0+1);
 		System.out.println(Min);
  
 	}
