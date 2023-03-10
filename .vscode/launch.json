@@ -1,0 +1,658 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "B_10039",
+            "request": "launch",
+            "mainClass": "B_10039",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_10250",
+            "request": "launch",
+            "mainClass": "B_10250",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1037",
+            "request": "launch",
+            "mainClass": "B_1037",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1057",
+            "request": "launch",
+            "mainClass": "B_1057",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_10789",
+            "request": "launch",
+            "mainClass": "B_10789",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_10810",
+            "request": "launch",
+            "mainClass": "B_10810",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_10811",
+            "request": "launch",
+            "mainClass": "B_10811",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_10812",
+            "request": "launch",
+            "mainClass": "B_10812",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_10813",
+            "request": "launch",
+            "mainClass": "B_10813",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_10814",
+            "request": "launch",
+            "mainClass": "B_10814",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_10815",
+            "request": "launch",
+            "mainClass": "B_10815",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_10816",
+            "request": "launch",
+            "mainClass": "B_10816",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1085",
+            "request": "launch",
+            "mainClass": "B_1085",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_10988",
+            "request": "launch",
+            "mainClass": "B_10988",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_11382",
+            "request": "launch",
+            "mainClass": "B_11382",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_11399",
+            "request": "launch",
+            "mainClass": "B_11399",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_11650",
+            "request": "launch",
+            "mainClass": "B_11650",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_11651",
+            "request": "launch",
+            "mainClass": "B_11651",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_11659",
+            "request": "launch",
+            "mainClass": "B_11659",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_11718",
+            "request": "launch",
+            "mainClass": "B_11718",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_11729",
+            "request": "launch",
+            "mainClass": "B_11729",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1181",
+            "request": "launch",
+            "mainClass": "B_1181",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1193",
+            "request": "launch",
+            "mainClass": "B_1193",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1251",
+            "request": "launch",
+            "mainClass": "B_1251",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1269",
+            "request": "launch",
+            "mainClass": "B_1269",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_13241",
+            "request": "launch",
+            "mainClass": "B_13241",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1436",
+            "request": "launch",
+            "mainClass": "B_1436",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_14425",
+            "request": "launch",
+            "mainClass": "B_14425",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1476",
+            "request": "launch",
+            "mainClass": "B_1476",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_14888",
+            "request": "launch",
+            "mainClass": "B_14888",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_14888_",
+            "request": "launch",
+            "mainClass": "B_14888_",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1620",
+            "request": "launch",
+            "mainClass": "B_1620",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1629",
+            "request": "launch",
+            "mainClass": "B_1629",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1764",
+            "request": "launch",
+            "mainClass": "B_1764",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1789",
+            "request": "launch",
+            "mainClass": "B_1789",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_18870",
+            "request": "launch",
+            "mainClass": "B_18870",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1920",
+            "request": "launch",
+            "mainClass": "B_1920",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_1934",
+            "request": "launch",
+            "mainClass": "B_1934",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2004",
+            "request": "launch",
+            "mainClass": "B_2004",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2164",
+            "request": "launch",
+            "mainClass": "B_2164",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2231",
+            "request": "launch",
+            "mainClass": "B_2231",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2309",
+            "request": "launch",
+            "mainClass": "B_2309",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_24264",
+            "request": "launch",
+            "mainClass": "B_24264",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_24266",
+            "request": "launch",
+            "mainClass": "B_24266",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_24313",
+            "request": "launch",
+            "mainClass": "B_24313",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_24416",
+            "request": "launch",
+            "mainClass": "B_24416",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2444",
+            "request": "launch",
+            "mainClass": "B_2444",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2475",
+            "request": "launch",
+            "mainClass": "B_2475",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2477",
+            "request": "launch",
+            "mainClass": "B_2477",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2501",
+            "request": "launch",
+            "mainClass": "B_2501",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_25206",
+            "request": "launch",
+            "mainClass": "B_25206",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_25314",
+            "request": "launch",
+            "mainClass": "B_25314",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_25501",
+            "request": "launch",
+            "mainClass": "B_25501",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2559",
+            "request": "launch",
+            "mainClass": "B_2559",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2563",
+            "request": "launch",
+            "mainClass": "B_2563",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2734",
+            "request": "launch",
+            "mainClass": "B_2734",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_27433",
+            "request": "launch",
+            "mainClass": "B_27433",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2747",
+            "request": "launch",
+            "mainClass": "B_2747",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_2748",
+            "request": "launch",
+            "mainClass": "B_2748",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_27866",
+            "request": "launch",
+            "mainClass": "B_27866",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_3009",
+            "request": "launch",
+            "mainClass": "B_3009",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_3053",
+            "request": "launch",
+            "mainClass": "B_3053",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_4134",
+            "request": "launch",
+            "mainClass": "B_4134",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_5086",
+            "request": "launch",
+            "mainClass": "B_5086",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_53",
+            "request": "launch",
+            "mainClass": "B_53",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_7568",
+            "request": "launch",
+            "mainClass": "B_7568",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_9375",
+            "request": "launch",
+            "mainClass": "B_9375",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "B_9506",
+            "request": "launch",
+            "mainClass": "B_9506",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "ad",
+            "request": "launch",
+            "mainClass": "ad",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "b",
+            "request": "launch",
+            "mainClass": "b",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "c",
+            "request": "launch",
+            "mainClass": "c",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "d",
+            "request": "launch",
+            "mainClass": "d",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "g",
+            "request": "launch",
+            "mainClass": "g",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "gcd",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "h",
+            "request": "launch",
+            "mainClass": "h",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "i",
+            "request": "launch",
+            "mainClass": "i",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "j",
+            "request": "launch",
+            "mainClass": "j",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "k",
+            "request": "launch",
+            "mainClass": "k",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "l",
+            "request": "launch",
+            "mainClass": "l",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "m",
+            "request": "launch",
+            "mainClass": "m",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "o",
+            "request": "launch",
+            "mainClass": "o",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "p",
+            "request": "launch",
+            "mainClass": "p",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "q",
+            "request": "launch",
+            "mainClass": "q",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "qq",
+            "request": "launch",
+            "mainClass": "qq",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "r",
+            "request": "launch",
+            "mainClass": "r",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "s",
+            "request": "launch",
+            "mainClass": "s",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "t",
+            "request": "launch",
+            "mainClass": "t",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "u",
+            "request": "launch",
+            "mainClass": "u",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "v",
+            "request": "launch",
+            "mainClass": "v",
+            "projectName": "backjoon2_18a03a04"
+        },
+        {
+            "type": "java",
+            "name": "w",
+            "request": "launch",
+            "mainClass": "w",
+            "projectName": "backjoon2_18a03a04"
+        }
+    ]
+}

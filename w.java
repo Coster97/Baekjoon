@@ -11,7 +11,9 @@ public class w {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        test();
+        test(); !다다나
+
+
         int A = Integer.parseInt(br.readLine());
        
         for(int i = 0; i < A; i ++){
