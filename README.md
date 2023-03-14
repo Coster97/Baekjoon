@@ -48,9 +48,9 @@ Status는 문제에 대한 이해 정도를 나타냅니다.
 
  
  |Date|Algorithm|Num|Status|
- |------|------|------|---|
+ |------|------|------|-----|
  | |GREEDY|||
- |23/03/14|DFS&BFS|7569|🔵|
+ |23/03/14|DFS&BFS|7569| 🔵 |
  | |BACK TRACKING|||
  | |BRUTE FORCE|||
 
