@@ -24,7 +24,7 @@ public class B_2210 {
                 int n = Integer.parseInt(st.nextToken());
                 arr.add(n);
             }
-        }
+        }3
         result = new ArrayList<>(arr);
 
         visit = new boolean[arr.size()];
